@@ -1,0 +1,276 @@
+﻿id,name
+278,Affinity Water
+279,Albion Water
+280,Allcom
+281,Anglian Water
+282,APPLIED_TRAFFIC
+508,Ashfield District (Street Lighting)
+283,Atkins
+284,AWE Pipeline
+467,Balfour Beatty
+285,Birmingham City Council
+516,Blackpool BC (Street Lighting)
+517,Blue Transmission London Array Limited
+286,BOC Limited
+486,BOC Limited (A Member of the Linde Group)
+287,Bournemouth and West Hampshire Water
+562,Bournemouth Borough Council
+487,BP Exploration Operating Company Limited
+288,BP Midstream Pipelines
+289,BPA
+290,Bristol Water
+291,BT Openreach
+433,Buckinghamshire County Council
+292,Cadent Gas Ltd
+293,Cambridge Water
+434,Cambridgeshire County Council
+294,Carrington Gas Pipeline
+295,CATS Pipeline
+296,Cemex
+298,Centrica Storage Ltd
+501,CenturyLink Communications UK Ltd
+458,Cheshire West & Chester
+300,Cholderton and District Water
+459,City of York Council
+299,CityFibre
+301,CLH Pipeline System Ltd
+560,CNG Services Ltd
+302,Colt
+303,Concept Solutions People Ltd
+304,ConocoPhillips (UK) Ltd
+518,Copeland District (Street Lights)
+305,Cornwall County Council (North)
+306,Cornwall County Council (South)
+498,Crossrail
+436,Cumbria County Council
+307,Dee Valley Water
+462,Denbighshire County Council
+509,Derby City Council
+446,Derbyshire County Council
+431,Devon County Council
+308,DIO
+466,DO NOT USE National grid above 7 bar
+484,DO NOT USE National Grid Electricity Transmission
+478,DO NOT USE National Grid Gas
+482,"DO NOT USE National Grid Gas (Above 7 bar), National Grid"
+465,DO NOT USE National Grid Gas Above 2bar
+477,DO NOT USE National Grid Gas Distribution (below 2 bar)
+464,DO NOT USE Powys Council (Hwys& Waste)
+489,DO NOT USE Scottish Power (South)
+429,DO NOT USE Zayo
+432,Dorset County Council
+544,Drax Group
+310,Dudley Metropolitan Borough Council
+311,Dwr Cymru Welsh Water
+320,E.ON UK CHP Limited
+435,East Sussex Council
+312,Easynet telecom
+313,EirGrid
+314,Electricity North West Limited
+315,Energetics Electricity
+316,ENGIE
+317,ENI & Himor c/o Penspen Ltd
+479,EnQuest NNS Limited
+318,Enviroment Agency
+319,ENWL
+297,EP Langage Limited
+321,ESP Utilities
+322,ESSAR
+550,Essex & Suffolk Water
+324,Essex and Suffolk Water (Northumbrian)
+491,Essex County (East Area)
+495,Essex County (West Area)
+437,Essex County Council
+323,Esso Petroleum Company Limited
+325,Fulcrum Pipelines
+326,Gamma
+483,Gas Distribution Limited (Above 2 bar) and
+327,Gateshead Energy Company
+328,GC (UK) Ltd
+329,GC PEC
+330,NRTS
+331,GIGACLEAR
+553,Gigaclear Ltd
+332,Gloucestershire County Council
+333,GTC
+334,GTT (formerly Hibernia Networks)
+505,Hafren Dyfrdwy
+438,Hampshire County Council
+335,Harlaxton Energy
+336,Hartlepool Water
+503,Havering London Borough Council
+551,Heathrow Airport LTD
+337,Herefordshire County Council
+439,Hertfordshire County Council
+507,Highways England HADDMS
+338,Humbly Grove Energy
+500,HV Cables
+339,IGas Energy
+496,Independent Water Networks
+481,INEOS
+340,INEOS FPS PIPELINES
+543,INEOS FPS Pipelines
+480,INEOS Manufacturing (Scotland and TSEP)
+341,INOVYN Enterprises Limited
+342,Instalcom
+343,Intergen (Coryton Energy or Spalding Energy)
+344,GTT
+345,KCom
+440,Kent County Council
+346,KPN (c/-Instalcom)
+441,Lancashire County Council
+442,Leicestershire County Council
+347,Level 3 Communications UK Ltd
+476,Level 3 Communications UK Ltd (C/-Instalcom)
+443,Lincolnshire County Council
+463,London Councils
+504,London Underground
+497,Luton Borough Council
+348,Mainline Pipelines Limited
+457,Manchester City Council
+349,Manchester Jetline Limited
+350,ManxCable Company Limited
+351,Marchwood Power Ltd (Gas Pipeline)
+352,Melbourn Solar Limited
+353,Mobile Broadband Network Limited
+354,Monmouthshire County Council
+549,Murphy Utility Assets
+355,National Grid
+356,Network Rail
+444,Norfolk County Council
+488,North Somerset (Street Lighting)
+445,North Yorkshire County Council
+447,Northamptonshire County Council
+357,Northern Gas Networks
+358,Northern Power Grid (not Yorkshire)
+359,Northern Power Grid (Yorkshire)
+510,Northern Powergrid
+360,Northumbrian Water Group
+519,Northumbrian Water Limited
+511,Nottingham City Council (Plant Locations)
+512,Nottinghamshire County (Ashfield/Mansfield)
+513,Nottinghamshire County (Bassetlaw)
+514,Nottinghamshire County (Newark and Sherwood)
+515,Nottinghamshire County (South)
+448,Nottinghamshire County Council
+361,Npower
+469,NPower CHP Pipelines
+362,Oikos Storage Limited
+309,Ørsted
+449,Oxfordshire County Council
+363,Perenco UK Limited
+522,Perenco UK Limited (Purbeck Southampton Pipeline)
+470,"Perenco UK Limited (Purbeck Southampton
+Pipeline)"
+364,Petroineos
+365,Phillips 66
+366,Plymouth City Council
+552,Plymouth City Council (Hwys)
+499,Poole Borough
+367,Portsmouth Water
+368,Powys Council (Hwys and Waste)
+369,Premier Transmission Ltd (SNIP)
+370,Prysmian Cables & Systems Ltd (c/o Western Link)
+471,"Prysmian Cables & Systems Ltd (c/o Western
+Link)"
+371,Redundant Pipelines - LPDA
+490,Rutland County Council
+520,RWE - Great Yarmouth Pipeline (Bacton to Great Yarmouth Power Station)
+372,RWE npower
+472,RWEnpower (Little Barford and South Haven)
+546,RWEnpower Little Barford Oil Pipeline
+373,SABIC UK Petrochemicals
+556,Sabic UK Petrochemicals North West
+374,Sandwell MBC (Street Lighting)
+561,Scottish and Southern Electricity Networks
+375,Scottish and Southern Energy
+376,Scottish Hydro Electric
+554,Scottish Power (South)
+559,Scottish Power (Southern Scotland)
+377,Scottish Power Generation
+378,Scottish Water
+379,Sea Fibre Networks
+380,Seabank
+485,Seabank Power Ltd
+381,SES Water
+506,Severn Trent (Chester area only)
+382,Severn Trent Water
+383,SGN
+384,Shell
+475,Shell (St Fergus to Mossmorran)
+558,Shell NOP Pipelines
+557,Shell OP Pipelines
+461,Shropshire Council
+385,Sky UK Limited
+386,Solihull MBC (Drainage&Streetlight)
+555,Solihull MBC (Drainage)
+450,Somerset County Council
+502,Sota
+387,South East Water
+388,South Staffordshire Water
+389,South West Water
+390,Southern Gas Networks
+391,Southern Water
+393,SSE (North)
+394,SSE (Peterhead Power Station)
+392,SSE (South)
+564,SSE Enterprise Telecoms
+395,SSE telecoms
+565,SSE Utility Solutions Limited
+451,Staffordshire County Council
+396,Stoke on Trent City Council
+452,Suffolk County Council
+453,Surrey County Council
+397,Sutton and East Surrey Water
+398,Tata (c/-McNicholas)
+521,Tata Communications
+399,Telenet
+401,TELENT (Teliasonera)
+400,Telford and Wrekin Borough Council
+402,Thames Water
+474,Total (Colnbrook & Colwick Pipelines)
+403,Total UK
+404,Trafficmaster
+405,Transmission Capital
+406,UK Power Networks
+407,Uniper
+408,United Utilities
+409,Utilicom Limited
+410,Utility assets Ltd
+411,Vattenfall
+412,Veolia ES SELCHP Limited
+563,Veolia ES Sheffield Ltd
+413,Verizon Business
+414,Virgin Media
+415,Vodafone
+416,Vtesse Networks
+417,Wales and West Utilities
+418,Warwickshire CC (St Lighting)
+419,Warwickshire CC (Traffic Signals)
+454,Warwickshire County Council
+420,Welsh Water
+421,Wessex Water
+492,West Berkshire Council
+455,West Sussex County Council
+430,Western Link (Prysmian)
+422,Western Power Distribution
+468,Westminster City Council
+423,Wiltshire County
+494,Windsor and Maidenhead Royal Borough Council
+424,Wingas Storage UK Ltd
+493,Wokingham District Council (Structures)
+460,Worcester City Council
+548,Worcestershire County
+426,Worcestershire County (Street Lighting)
+427,Worcestershire County (Traffic Signals)
+456,Worcestershire County Council
+425,Worcestershire County Council2
+428,Yorkshire Water
+473,Zayo Group UK Ltd c/o JSM Group Ltd
+566,Northumbrian Water or Essex & Suffolk Water
+567,University of Cambridge Granta Backbone Network
+568,Jurassic Fibre Ltd
+569,Heathrow Airport LTD
+570,Last mile
+0,TOPO PDF
+571,Neos Networks

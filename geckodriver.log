@@ -1,0 +1,113 @@
+1625759410536	geckodriver	INFO	Listening on 127.0.0.1:48187
+1625759418592	geckodriver	INFO	Listening on 127.0.0.1:35381
+1625759577220	geckodriver	INFO	Listening on 127.0.0.1:56341
+1625759586276	geckodriver	INFO	Listening on 127.0.0.1:46775
+1625759924798	geckodriver	INFO	Listening on 127.0.0.1:50581
+1625759985457	geckodriver	INFO	Listening on 127.0.0.1:50017
+1625759986461	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-blink-features=AutomationControlled" "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.43 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexo8HCY"
+[GFX1-]: No GPUs detected via PCI
+1625759987169	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexo8HCY/search.json.mozlz4", (void 0)))
+1625759989785	Marionette	INFO	Listening on port 34037
+1625759989891	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625760012405	geckodriver	INFO	Listening on 127.0.0.1:54027
+1625760013410	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-blink-features=AutomationControlled" "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.43 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDNbAwP"
+[GFX1-]: No GPUs detected via PCI
+1625760013783	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDNbAwP/search.json.mozlz4", (void 0)))
+1625760016201	Marionette	INFO	Listening on port 37999
+1625760016257	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/driver.js :: GeckoDriver.prototype.setWindowRect :: line 1284"  data: no]
+GeckoDriver.prototype.setWindowRect@chrome://marionette/content/driver.js:1284:9
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: https://onecall.linesearchbeforeudig.co.uk/uk-b4-en/PCAuth/scripts/jquery-3.4.1.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+1625760017885	Marionette	INFO	Stopped listening on port 37999
+1625760021353	Marionette	INFO	Stopped listening on port 34037
+1625760062873	geckodriver	INFO	Listening on 127.0.0.1:45239
+1625760063877	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-blink-features=AutomationControlled" "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.43 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileX9Aoxd"
+[GFX1-]: No GPUs detected via PCI
+1625760064239	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileX9Aoxd/search.json.mozlz4", (void 0)))
+1625760066590	Marionette	INFO	Listening on port 45385
+1625760066704	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625760088081	Marionette	INFO	Stopped listening on port 45385
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625760088912	geckodriver	INFO	Listening on 127.0.0.1:58929
+1625760089917	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-blink-features=AutomationControlled" "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.43 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePHvqq5"
+[GFX1-]: No GPUs detected via PCI
+1625760090265	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePHvqq5/search.json.mozlz4", (void 0)))
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1625760205182	geckodriver	INFO	Listening on 127.0.0.1:40727
+1625760206185	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-blink-features=AutomationControlled" "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.43 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileccRboh"
+[GFX1-]: No GPUs detected via PCI
+1625760206533	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileccRboh/search.json.mozlz4", (void 0)))
+1625760208989	Marionette	INFO	Listening on port 32959
+1625760209018	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625760228752	geckodriver	INFO	Listening on 127.0.0.1:54647
+1625760229759	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-blink-features=AutomationControlled" "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.43 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBXjVtZ"
+[GFX1-]: No GPUs detected via PCI
+1625760230124	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBXjVtZ/search.json.mozlz4", (void 0)))
+1625760232239	Marionette	INFO	Listening on port 34385
+1625760232289	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625760233683	Marionette	INFO	Stopped listening on port 34385
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625760237550	Marionette	INFO	Stopped listening on port 32959
+1625760263259	geckodriver	INFO	Listening on 127.0.0.1:41673
+1625760264263	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-blink-features=AutomationControlled" "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.43 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledw2L3d"
+[GFX1-]: No GPUs detected via PCI
+1625760264610	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledw2L3d/search.json.mozlz4", (void 0)))
+1625760266859	Marionette	INFO	Listening on port 39255
+1625760266893	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625760289610	geckodriver	INFO	Listening on 127.0.0.1:40853
+1625760290617	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-blink-features=AutomationControlled" "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.43 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileS83xiC"
+[GFX1-]: No GPUs detected via PCI
+1625760290973	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileS83xiC/search.json.mozlz4", (void 0)))
+1625760293138	Marionette	INFO	Listening on port 46163
+1625760293252	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625760294525	Marionette	INFO	Stopped listening on port 46163
+1625760302312	geckodriver	INFO	Listening on 127.0.0.1:58475
+1625760302315	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-blink-features=AutomationControlled" "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.43 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYc15V2"
+[GFX1-]: No GPUs detected via PCI
+1625760302717	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYc15V2/search.json.mozlz4", (void 0)))
+1625760304752	Marionette	INFO	Listening on port 36065
+1625760304837	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625760305995	Marionette	INFO	Stopped listening on port 36065
+1625760313410	Marionette	INFO	Stopped listening on port 39255
+1625760313793	geckodriver	INFO	Listening on 127.0.0.1:42763
+1625760314797	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-blink-features=AutomationControlled" "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.43 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4cM0N0"
+[GFX1-]: No GPUs detected via PCI
+1625760315155	Marionette	INFO	Marionette enabled
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1625760388040	geckodriver	INFO	Listening on 127.0.0.1:33723
+1625760389044	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-blink-features=AutomationControlled" "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.43 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRufcMp"
+[GFX1-]: No GPUs detected via PCI
+1625760389397	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRufcMp/search.json.mozlz4", (void 0)))
+1625760391893	Marionette	INFO	Listening on port 39923
+1625760391983	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625760412996	geckodriver	INFO	Listening on 127.0.0.1:34495
+1625760413857	Marionette	INFO	Stopped listening on port 39923
+1625760414006	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-blink-features=AutomationControlled" "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.43 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0zGxzZ"
+[GFX1-]: No GPUs detected via PCI
+1625760414407	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0zGxzZ/search.json.mozlz4", (void 0)))
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
